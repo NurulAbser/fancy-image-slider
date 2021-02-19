@@ -1,1 +1,1 @@
-# fancy-image-slider
+# Assignment-6
